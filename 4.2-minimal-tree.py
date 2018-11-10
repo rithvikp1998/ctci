@@ -4,7 +4,7 @@ class Node:
         self.left=None
         self.right=None
 
-def printTree(root): # In-order traversal + Sanity check
+def printTree(root): # Pre-order traversal + Sanity check
     if root==None:
         print('None')
         return
