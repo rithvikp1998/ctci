@@ -1,0 +1,7 @@
+Assuming the ants stop walking after they collide,
+the only way they don't collide at all is if they
+all start walking in the same direction. In a triangle,
+the probability of that happening is 2*((1/2)^3).
+Therefore, the probability of collision is 1-2*((1/2)^3).
+For a n-vertex polygon, the probability of collision is
+1-2*((1/2)^n).

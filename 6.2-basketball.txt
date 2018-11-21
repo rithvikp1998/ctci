@@ -1,0 +1,5 @@
+Probability of winning game 1 is p1=p
+Probability of winning game 2 is p2=3*(p^2)*(1-p)+(p^3)
+Pick game 1 if p1>p2
+Pick game 2 if p2>p1
+Pick either game if p1=p2

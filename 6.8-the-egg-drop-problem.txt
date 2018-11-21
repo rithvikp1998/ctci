@@ -1,0 +1,5 @@
+Pretty famous problem. Let the first egg be dropped every
+k'th floor. Once the first egg breaks, the second egg has to 
+be dropped in one floor increments inorder to reach a definite
+answer. So, we have to minimise (100/k) + (k-1). For 100 floors,
+the value of k which minimises this is 10.

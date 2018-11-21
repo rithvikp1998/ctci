@@ -1,0 +1,9 @@
+1. Fill the five-quart jug from the supply.
+2. Fill the three-quart jug with the water from five-quart jug.
+3. The five-quart jug now has two quarts of water left.
+4. Throw away the water from the three-quart jug and fill it with
+   water from the five-quart jug. The five-quart jug is now empty
+   and the three-quart jug has two quarts of water.
+5. Fill the five-quart jug from the supply.
+6. Fill the three-quart jug with the water from five-quart jug.
+7. The five-quart jug now has four quarts of water.

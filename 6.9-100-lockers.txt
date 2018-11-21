@@ -1,0 +1,5 @@
+The locker will be open after an even number of toggles.
+The i'th locker will be toggled for every number from 2
+to i that divides i. We can just run a loop counting 
+such numbers and if the number is even, the locker will
+be open. TODO: Find a more efficient solution.

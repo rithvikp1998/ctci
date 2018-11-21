@@ -1,0 +1,12 @@
+1. Test 100 bottles with one strip per batch and send the strips to the lab
+2. After one week, we have a batch of 100 bottles which contains
+   the poisoned one and 9 strips left.
+3. Test 11 bottles with one strip per batch (one batch will contain 12 bottles)
+   and send the strips to the lab.
+4. After one week, we have a batch of 11/12 bottles which contains
+   the poisoned one and 8 strips left.
+5. Test 1/2 bottle batches with 8 strips and send the strips to the lab
+6. After one week, we either know the poisoned bottle or we have to wait
+   one more week to differntiate between two bottles. 
+
+In the worst case scenario, we have to wait 4 weeks.

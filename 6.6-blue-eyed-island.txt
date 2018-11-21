@@ -1,0 +1,26 @@
+I saw this riddle on Ted Ed so I knew the answer :(
+
+Assume that all the players play optimally. Suppose I am 
+one of the players. On the day, the announcement is made,
+I travel the island looking for blue eyed people. 
+
+If I find none and I know that there is atleast one blue-eyed 
+person on the island, then I am that person, so I board the plane.
+
+If I find only one other blue-eyed person, I wait for the plane 
+to leave once. If on the next day, I find out this person has boarded
+the plane, it'd be because I have green eyes and he knew that so he
+boarded the plane. If he didn't board the plane, it is because I have
+blue eyes and he was waiting to see if I board the plane. On day 2, 
+when I come across him, both of us realise we have blue eyes (because
+if only one of us did, the other would have boarded the plane on day
+1 itself), so we both board the plane one day 2.
+
+If I find two other blue eyed people, I wait for 2 days. If I have green
+eyes, those two blue eyed people would have figured out the above point 
+on day 2 and left the island on day 2. If they didn't leave on day 2, it'd
+because I have blue eyes. So, on day 3, we all figure this out and leave
+the island.
+
+So, if there are N blue eyed people in the island, it'll take N days
+for all of them to leave.

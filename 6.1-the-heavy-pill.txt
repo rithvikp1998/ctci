@@ -1,0 +1,9 @@
+I had to look at hint #319 to figure out the answer :(
+
+Keep the number of pills in the bottle such that the i'th
+bottle has i pills. Place all the bottles on the scale at
+once. Let the reading be x. The One-index of the bottle 
+with the heavy pills is (x - 210)/0.1 (210 is the sum of
+first 20 natural numbers. If i'th bottle has the heavy
+pills, the reading will be 210 + i*0.1)
+

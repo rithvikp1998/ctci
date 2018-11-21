@@ -1,0 +1,7 @@
+I had to look at hint #367 to figure out the answer :(
+
+A single domino placed in either vertical or horizontal orientation
+covers one black square and one white square. In a 8x8 chessboard
+with corners cut off, there are 2 extra squares of one color (since
+the diagonally opposite corners of a chessboard are of the same 
+color), so it is impossible to cover the chessboard with dominos.
